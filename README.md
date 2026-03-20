@@ -1,6 +1,6 @@
 # multimedial
 #### Exploracion creativa de arte, tecnologia y medios digitales interactivos
-
+https://criveraz-gif.github.io/multimedial/w/index.html
 ejercicio 1, semana 1
 ```
 <!DOCTYPE html>
